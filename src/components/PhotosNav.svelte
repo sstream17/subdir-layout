@@ -25,5 +25,10 @@
 				aria-current={segment === 'cool' ? 'page' : undefined}
 				href="photos/cool">cool</a>
 		</li>
+		<li>
+			<a
+				aria-current={segment === 'weird' ? 'page' : undefined}
+				href="photos/weird">weird</a>
+		</li>
 	</ul>
 </nav>
